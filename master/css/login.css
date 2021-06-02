@@ -1,0 +1,68 @@
+body {
+    background-color: lightseagreen;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+    font-size: 30px;
+}
+
+#myform {
+    text-align: center;
+    color: white;
+}
+
+label {
+    display: inline-block;
+    width: 50px;
+    text-align: left;
+}
+
+input[type="text"] {
+    background-color: lightseagreen;
+    outline: 0;
+    border-width: 0 0 2px;
+    border-color: white;
+    color: white;
+}
+
+input[type="number"] {
+    background-color: lightseagreen;
+    outline: 0;
+    border-width: 0 0 2px;
+    border-color: white;
+    color: white;
+}
+
+input[type="password"] {
+    background-color: lightseagreen;
+    outline: 0;
+    border-width: 0 0 2px;
+    border-color: white;
+    color: white;
+}
+
+input[type="submit"] {
+    background-color: white;
+    border-color: black;
+    border-radius: 4px;
+    text-align: left;
+    color: black;
+    margin-right: 57px;
+}
+
+input[type="checkbox"] {
+    color: black;
+    text-align: left;
+    margin-right: 10px;
+    margin-left: -20px;
+}
+
+a {
+    color: blue;
+}
+
+#myform>a:hover {
+    color: white;
+}

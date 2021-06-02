@@ -1,0 +1,97 @@
+                body {
+                    background-color: lightseagreen;
+                }
+                
+                h1 {
+                    color: white;
+                    text-align: center;
+                    font-size: 30px;
+                }
+                
+                #register {
+                    text-align: center;
+                    color: white;
+                }
+                
+                #login {
+                    text-align: center;
+                    color: white;
+                }
+                
+                label {
+                    display: inline-block;
+                    width: 100px;
+                    text-align: left;
+                }
+                
+                input[type="text"] {
+                    background-color: lightseagreen;
+                    outline: 0;
+                    border-width: 0 0 2px;
+                    border-color: white;
+                    color: white;
+                }
+                
+                input[type="number"] {
+                    background-color: lightseagreen;
+                    outline: 0;
+                    border-width: 0 0 2px;
+                    border-color: white;
+                    color: white;
+                }
+                
+                input[type="password"] {
+                    background-color: lightseagreen;
+                    outline: 0;
+                    border-width: 0 0 2px;
+                    border-color: white;
+                    color: white;
+                }
+                
+                input[type="submit"] {
+                    background-color: black;
+                    border-color: black;
+                    border-radius: 4px;
+                    text-align: left;
+                    color: black;
+                    margin-right: 50px;
+                }
+                
+                input[type="reset"] {
+                    background-color: white;
+                    border-color: black;
+                    border-radius: 4px;
+                    text-align: left;
+                    color: black;
+                    margin-right: 20px;
+                }
+                
+                input[type="checkbox"] {
+                    color: black;
+                    text-align: left;
+                    margin-right: 10px;
+                    margin-left: -20px;
+                }
+                
+                a {
+                    color: blue;
+                }
+                
+                #register>a:hover {
+                    color: white;
+                }
+                
+                #login>a:hover {
+                    color: white;
+                }
+                
+                .nav-bar {
+                    position: fixed;
+                    max-width: 8%;
+                    height: 100%;
+                    background-color: grey;
+                }
+                
+                li>a {
+                    color: white;
+                }

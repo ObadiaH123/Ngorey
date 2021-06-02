@@ -1,0 +1,28 @@
+.container{
+  margin-top: 3%;
+  padding-top: 2%;
+  box-shadow: 0 0 5px 1px #3aafa9;
+  height: 550px;
+}
+.paragraph{
+  float: left;
+  text-transform: uppercase;
+}
+.h6{
+  float: right;
+  margin-left: 5%;
+}
+.image{
+  margin-top: 70px;
+  margin-right: 110px;
+  margin-bottom: 95px;
+  width: 100px;
+  height: 100px;
+  float: right;
+}
+#submit{
+  margin-top: 30px;
+}
+#school{
+  display: none;
+}

@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Nanum+Myeongjo&display=swap');
+body{
+    background-image: url(../img/reading1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 0.9;
+}
+
+
+.nav-bar {
+    position: fixed;
+    max-width: 8%;
+    height: 100%;
+    background-color: grey;
+}
+li>a{
+    color: white;
+}
+#section{
+    text-align: center;
+    font-weight: bold;
+    font-size: 25px;
+    font-family: 'Nanum Myeongjo', serif;
+    
+}

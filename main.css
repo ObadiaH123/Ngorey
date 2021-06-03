@@ -1,8 +1,32 @@
-head { text-align: center
-    ; font-size: medium; background-color: burlywood;
-color: aqua;}
-p{color: rgb(7, 104, 231); text-align: left; order: ;}
-h1{color: chocolate ;text-align: center;}
-h2{color: darkcyan; text-align: justify;}
-li{text-shadow: darkgreen;}
-ul{text-align: center;}
+head { text-align: center;
+     font-size: medium; 
+    background-color: burlywood;
+color: aqua;
+}
+
+p{color: rgb(7, 104, 231); 
+    text-align: left;
+}
+
+h1{color: chocolate ;
+    text-align: center; 
+  font-family: 'Courier New', 'Sans-Serif';
+
+}
+
+h2{color: darkcyan; 
+    text-align: justify;
+}
+
+h3{text-align: center; 
+    font-family: 'Times New Roman', Times, serif;
+color: brown;
+}
+
+li{text-shadow: darkgreen; 
+    font-style: italic;
+}
+
+ul{text-align: center; 
+    list-style-type: none;
+}
